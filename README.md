@@ -77,11 +77,11 @@ The Shwapno app store contains a list of all current available internal applicat
 
 ## GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ovi100&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub stats 1" />
-<img align="right" src="https://nirzak-streak-stats.vercel.app/?user=ovi100&theme=tokyonight" alt="GitHub Streak" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovi100&layout=compact&theme=tokyonight" alt="GitHub stats 2" />
 
 <br clear="both">
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovi100&layout=compact&theme=tokyonight" alt="GitHub stats 2" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=ovi100&theme=tokyonight" alt="GitHub Streak" />
 
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ovi100&limit=5&theme=dark&combine_all_yearly_contributions=true)
